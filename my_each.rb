@@ -12,6 +12,6 @@ array
 
 end
 
-my_each(collection) do |i|
+my_each(array) do |i|
   puts i
 end
