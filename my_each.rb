@@ -7,8 +7,7 @@ def my_each(array)
       end
 
 array
-else
-  puts "no"
+
   end
 
 end
